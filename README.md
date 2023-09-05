@@ -1,4 +1,4 @@
 # first
 This is just a demo repository
 <br>
-Author - Shashank S
+Author - Shashank S(4th year CE Student)
